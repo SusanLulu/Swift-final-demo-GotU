@@ -1,7 +1,8 @@
 # Final-app-demo **GotU** for-Swift-class
 
-####### GotU, an app for searching teammate in campus
-------------------------
+GotU, an app for searching teammate in campus
+</br>
+
 ![swiftDemo](https://github.com/SusanLulu/Swift-final-demo-GotU/raw/master/gotU.png)
 
 --------------------------------
