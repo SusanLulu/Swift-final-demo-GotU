@@ -1,11 +1,11 @@
-# Final-app-demo **GotU** for Swift class
+# Final-app-demo **GotU** for-Swift-class
 
 GotU, an app for searching teammate in campus
-
+------------------------
 ![swiftDemo](https://github.com/SusanLulu/Swift-final-demo-GotU/raw/master/gotU.png)
 
 --------------------------------
-#####Function
+##### Function
 - DISCOVER: view projects
 - JOIN: search
 - INTEREST: 
@@ -14,7 +14,7 @@ GotU, an app for searching teammate in campus
 
 --------------------------
 ##### programmer:
-</br>BingYing,Yan
+BingYing,Yan
 </br>Susan,Lu
 ##### designer:
-</br>BingYing,Yan
+BingYing,Yan
