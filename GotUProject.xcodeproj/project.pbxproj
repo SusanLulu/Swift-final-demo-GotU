@@ -7,21 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		010273B81E22091800D5255B /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273B31E22091800D5255B /* 120.png */; };
+		010273B91E22091800D5255B /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273B41E22091800D5255B /* 180.png */; };
+		010273BA1E22091800D5255B /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273B51E22091800D5255B /* 58.png */; };
+		010273BB1E22091800D5255B /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273B61E22091800D5255B /* 80.png */; };
+		010273BC1E22091800D5255B /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273B71E22091800D5255B /* 87.png */; };
+		010273BE1E220AE700D5255B /* GotU_AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 010273BD1E220AE700D5255B /* GotU_AppIcon.png */; };
+		010721DD1E20207C001AF0EF /* addSuggestionImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 010721DC1E20207C001AF0EF /* addSuggestionImage.png */; };
+		01439F9B1E14C3640023EDBD /* ProjectCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01439F9A1E14C3640023EDBD /* ProjectCategoryViewController.swift */; };
+		01439FA11E14DE7D0023EDBD /* discoverImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 01439F9D1E14DE7D0023EDBD /* discoverImage.png */; };
+		01439FA21E14DE7D0023EDBD /* interestedImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 01439F9E1E14DE7D0023EDBD /* interestedImage.png */; };
+		01439FA31E14DE7D0023EDBD /* joinedImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 01439F9F1E14DE7D0023EDBD /* joinedImage.png */; };
+		01439FA41E14DE7D0023EDBD /* mineImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 01439FA01E14DE7D0023EDBD /* mineImage.png */; };
+		01939C4C1E14ABE700E39E3D /* ProjectListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01939C4B1E14ABE700E39E3D /* ProjectListViewController.swift */; };
+		019CDCC91E1F82A70033960F /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019CDCC81E1F82A70033960F /* Project.swift */; };
+		01BB6A271E1E7937000A040C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 01BB6A261E1E7937000A040C /* GoogleService-Info.plist */; };
 		01DDC56E1E13A87100775021 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DDC56D1E13A87100775021 /* AppDelegate.swift */; };
-		01DDC5701E13A87100775021 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DDC56F1E13A87100775021 /* ViewController.swift */; };
 		01DDC5731E13A87100775021 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01DDC5711E13A87100775021 /* Main.storyboard */; };
 		01DDC5751E13A87100775021 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01DDC5741E13A87100775021 /* Assets.xcassets */; };
 		01DDC5781E13A87100775021 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01DDC5761E13A87100775021 /* LaunchScreen.storyboard */; };
+		01E119F11E1A05B4000C3448 /* ProjectDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E119F01E1A05B4000C3448 /* ProjectDetailViewController.swift */; };
+		01E119FC1E1A8BD3000C3448 /* AddProjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E119FB1E1A8BD3000C3448 /* AddProjectViewController.swift */; };
+		01E119FE1E1ACE6F000C3448 /* GotU_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E119FD1E1ACE6F000C3448 /* GotU_logo.png */; };
+		01E11A001E1AD0E1000C3448 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E119FF1E1AD0E1000C3448 /* WelcomeViewController.swift */; };
+		FD08987A0CF55CCC1E37FA35 /* Pods_GotUProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6E1895382B16F5A3AA7E77B /* Pods_GotUProject.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		010273B31E22091800D5255B /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		010273B41E22091800D5255B /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
+		010273B51E22091800D5255B /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		010273B61E22091800D5255B /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		010273B71E22091800D5255B /* 87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 87.png; sourceTree = "<group>"; };
+		010273BD1E220AE700D5255B /* GotU_AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GotU_AppIcon.png; sourceTree = "<group>"; };
+		010721DC1E20207C001AF0EF /* addSuggestionImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addSuggestionImage.png; sourceTree = "<group>"; };
+		01439F9A1E14C3640023EDBD /* ProjectCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProjectCategoryViewController.swift; sourceTree = "<group>"; };
+		01439F9D1E14DE7D0023EDBD /* discoverImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = discoverImage.png; sourceTree = "<group>"; };
+		01439F9E1E14DE7D0023EDBD /* interestedImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = interestedImage.png; sourceTree = "<group>"; };
+		01439F9F1E14DE7D0023EDBD /* joinedImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = joinedImage.png; sourceTree = "<group>"; };
+		01439FA01E14DE7D0023EDBD /* mineImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mineImage.png; sourceTree = "<group>"; };
+		01939C4B1E14ABE700E39E3D /* ProjectListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProjectListViewController.swift; sourceTree = "<group>"; };
+		019CDCC81E1F82A70033960F /* Project.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Project.swift; sourceTree = "<group>"; };
+		01BB6A261E1E7937000A040C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		01DDC56A1E13A87100775021 /* GotUProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GotUProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01DDC56D1E13A87100775021 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		01DDC56F1E13A87100775021 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		01DDC5721E13A87100775021 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		01DDC5741E13A87100775021 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01DDC5771E13A87100775021 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01DDC5791E13A87100775021 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01E119F01E1A05B4000C3448 /* ProjectDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProjectDetailViewController.swift; sourceTree = "<group>"; };
+		01E119FB1E1A8BD3000C3448 /* AddProjectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddProjectViewController.swift; sourceTree = "<group>"; };
+		01E119FD1E1ACE6F000C3448 /* GotU_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GotU_logo.png; sourceTree = "<group>"; };
+		01E119FF1E1AD0E1000C3448 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		0BED2B4A7D09FED627405401 /* Pods-GotUProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GotUProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-GotUProject/Pods-GotUProject.release.xcconfig"; sourceTree = "<group>"; };
+		E0D2CEBF3B5F88779D860F2E /* Pods-GotUProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GotUProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GotUProject/Pods-GotUProject.debug.xcconfig"; sourceTree = "<group>"; };
+		F6E1895382B16F5A3AA7E77B /* Pods_GotUProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GotUProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +69,48 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD08987A0CF55CCC1E37FA35 /* Pods_GotUProject.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		010273B21E22091800D5255B /* APPIcon */ = {
+			isa = PBXGroup;
+			children = (
+				010273B31E22091800D5255B /* 120.png */,
+				010273B41E22091800D5255B /* 180.png */,
+				010273B51E22091800D5255B /* 58.png */,
+				010273B61E22091800D5255B /* 80.png */,
+				010273B71E22091800D5255B /* 87.png */,
+			);
+			path = APPIcon;
+			sourceTree = "<group>";
+		};
+		01439F9C1E14DE7D0023EDBD /* image */ = {
+			isa = PBXGroup;
+			children = (
+				010273B21E22091800D5255B /* APPIcon */,
+				010721DC1E20207C001AF0EF /* addSuggestionImage.png */,
+				010273BD1E220AE700D5255B /* GotU_AppIcon.png */,
+				01E119FD1E1ACE6F000C3448 /* GotU_logo.png */,
+				01439F9D1E14DE7D0023EDBD /* discoverImage.png */,
+				01439F9E1E14DE7D0023EDBD /* interestedImage.png */,
+				01439F9F1E14DE7D0023EDBD /* joinedImage.png */,
+				01439FA01E14DE7D0023EDBD /* mineImage.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
 		01DDC5611E13A87100775021 = {
 			isa = PBXGroup;
 			children = (
 				01DDC56C1E13A87100775021 /* GotUProject */,
+				01439F9C1E14DE7D0023EDBD /* image */,
 				01DDC56B1E13A87100775021 /* Products */,
+				D95854162CA6C221D4F36805 /* Pods */,
+				5C87B9DBDDEF7013B0AF0CB0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +126,36 @@
 			isa = PBXGroup;
 			children = (
 				01DDC56D1E13A87100775021 /* AppDelegate.swift */,
-				01DDC56F1E13A87100775021 /* ViewController.swift */,
+				01E119FF1E1AD0E1000C3448 /* WelcomeViewController.swift */,
+				01439F9A1E14C3640023EDBD /* ProjectCategoryViewController.swift */,
+				01939C4B1E14ABE700E39E3D /* ProjectListViewController.swift */,
+				01E119F01E1A05B4000C3448 /* ProjectDetailViewController.swift */,
+				01E119FB1E1A8BD3000C3448 /* AddProjectViewController.swift */,
+				019CDCC81E1F82A70033960F /* Project.swift */,
 				01DDC5711E13A87100775021 /* Main.storyboard */,
 				01DDC5741E13A87100775021 /* Assets.xcassets */,
 				01DDC5761E13A87100775021 /* LaunchScreen.storyboard */,
 				01DDC5791E13A87100775021 /* Info.plist */,
+				01BB6A261E1E7937000A040C /* GoogleService-Info.plist */,
 			);
 			path = GotUProject;
+			sourceTree = "<group>";
+		};
+		5C87B9DBDDEF7013B0AF0CB0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6E1895382B16F5A3AA7E77B /* Pods_GotUProject.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D95854162CA6C221D4F36805 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E0D2CEBF3B5F88779D860F2E /* Pods-GotUProject.debug.xcconfig */,
+				0BED2B4A7D09FED627405401 /* Pods-GotUProject.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +165,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 01DDC57C1E13A87100775021 /* Build configuration list for PBXNativeTarget "GotUProject" */;
 			buildPhases = (
+				06C6435B5068DF4BFF8D0999 /* [CP] Check Pods Manifest.lock */,
 				01DDC5661E13A87100775021 /* Sources */,
 				01DDC5671E13A87100775021 /* Frameworks */,
 				01DDC5681E13A87100775021 /* Resources */,
+				835D20E6AEEB4953BD5CBDD3 /* [CP] Embed Pods Frameworks */,
+				270999F263B42CC4A0746F1B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -91,7 +188,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Ping-Ying Yen";
 				TargetAttributes = {
 					01DDC5691E13A87100775021 = {
@@ -123,21 +220,87 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				010273BA1E22091800D5255B /* 58.png in Resources */,
+				010273BB1E22091800D5255B /* 80.png in Resources */,
+				01439FA31E14DE7D0023EDBD /* joinedImage.png in Resources */,
+				010273B81E22091800D5255B /* 120.png in Resources */,
+				01E119FE1E1ACE6F000C3448 /* GotU_logo.png in Resources */,
+				010273BC1E22091800D5255B /* 87.png in Resources */,
+				010273B91E22091800D5255B /* 180.png in Resources */,
 				01DDC5781E13A87100775021 /* LaunchScreen.storyboard in Resources */,
+				01439FA21E14DE7D0023EDBD /* interestedImage.png in Resources */,
 				01DDC5751E13A87100775021 /* Assets.xcassets in Resources */,
+				01439FA11E14DE7D0023EDBD /* discoverImage.png in Resources */,
+				010273BE1E220AE700D5255B /* GotU_AppIcon.png in Resources */,
+				01439FA41E14DE7D0023EDBD /* mineImage.png in Resources */,
+				01BB6A271E1E7937000A040C /* GoogleService-Info.plist in Resources */,
 				01DDC5731E13A87100775021 /* Main.storyboard in Resources */,
+				010721DD1E20207C001AF0EF /* addSuggestionImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		06C6435B5068DF4BFF8D0999 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		270999F263B42CC4A0746F1B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GotUProject/Pods-GotUProject-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		835D20E6AEEB4953BD5CBDD3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GotUProject/Pods-GotUProject-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		01DDC5661E13A87100775021 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01DDC5701E13A87100775021 /* ViewController.swift in Sources */,
+				01E119FC1E1A8BD3000C3448 /* AddProjectViewController.swift in Sources */,
+				01439F9B1E14C3640023EDBD /* ProjectCategoryViewController.swift in Sources */,
 				01DDC56E1E13A87100775021 /* AppDelegate.swift in Sources */,
+				01939C4C1E14ABE700E39E3D /* ProjectListViewController.swift in Sources */,
+				01E119F11E1A05B4000C3448 /* ProjectDetailViewController.swift in Sources */,
+				01E11A001E1AD0E1000C3448 /* WelcomeViewController.swift in Sources */,
+				019CDCC91E1F82A70033960F /* Project.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +344,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -230,6 +394,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -256,6 +421,7 @@
 		};
 		01DDC57D1E13A87100775021 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E0D2CEBF3B5F88779D860F2E /* Pods-GotUProject.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = GotUProject/Info.plist;
@@ -268,6 +434,7 @@
 		};
 		01DDC57E1E13A87100775021 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0BED2B4A7D09FED627405401 /* Pods-GotUProject.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = GotUProject/Info.plist;
@@ -297,6 +464,7 @@
 				01DDC57E1E13A87100775021 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

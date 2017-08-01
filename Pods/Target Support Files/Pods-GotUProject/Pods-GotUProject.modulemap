@@ -1,0 +1,6 @@
+framework module Pods_GotUProject {
+  umbrella header "Pods-GotUProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
